@@ -2,7 +2,7 @@
 
 mCUPID (**m**RNA-**C**entric **U**nified **P**re**d**ictor of **I**nteractions) is a unified deep learning framework integrating specialized pre-trained language models (PLMs) with a cross-attention mechanism, complemented by mCUPIDBench, a benchmark dataset employing biologically-informed negative sampling strategies to mitigate data bias. mCUPID is designed to systematically predict the interactions between mRNA and proteins (RPI), miRNAs (RRI), and small molecule ligands (RLI) based solely on sequence information.
 
-![mCUPID](figures/mCUPID.png)
+![mCUPID](figures/mCUPID.PNG)
 
 ## Project Structure
 
