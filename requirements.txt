@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+torch
+transformers==4.32.0
+sentencepiece
+multimolecule
+tqdm
+pickle
+argparse
+accelerate==0.24.1
+datasets
+evaluate
+einops
+peft
